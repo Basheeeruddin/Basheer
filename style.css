@@ -1,0 +1,340 @@
+.icon > .bg-cls{
+    background-color:  rgb(252, 105, 105);
+    padding: 10px;
+    border-radius: 50px;
+    position: relative;
+    bottom: 50px;
+}
+#bg{
+    background-image: url(Images/bgblur.jpg); height: 100%; width: 100%;
+    background-size: cover;
+    width: 100%;
+    border-bottom-right-radius: 140px;
+    background-position: right;
+
+
+
+}
+.lks ul {
+    display: flex;
+    justify-content: right;
+    align-items: right ;
+    color: white;
+    padding-right: 250px;
+    text-decoration: none;
+    
+   
+}
+
+ .lks li {
+    display: inline;
+    padding: 0px 10px 0px 5px;
+    margin: 0px 20px 0px  20px;
+    font: bold;
+    
+}
+.lks a {
+    text-decoration: none;
+    color: white;
+   
+
+}
+.hds{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding-left:300px;
+    padding-top: 20px;
+
+
+}
+.content-center{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+#div2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 150px 0px 150px;
+    margin: 50px 50px;
+    align-content: center;
+
+}
+/* .bt{
+    padding: 25px 850px 0px 0px; 
+
+} */
+.roju{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.abt{
+    padding: 10px;
+    margin: 10px;
+    color: rgb(190, 28, 28);
+    paddin
+}
+
+#car{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 0px 20px 20px 20px;
+    margin:  0px 20px 20px 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+
+}
+#car2{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 20px;
+    margin: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+
+}
+
+.card{
+    height: 300px;
+    width: 290px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s;
+    border: 0;
+
+}
+.card > .card-header{
+    border-bottom: 0;
+}
+.card:hover{
+    transform: scale(1.05);
+}
+#serv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(204, 9, 9);
+    margin-top: 50px;
+}
+#it{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    margin-top: 15px;
+
+}
+.container .card{
+    width: 420px;
+    height: 480px;
+    margin-left: 30;
+    padding-left: 25;
+}
+.container .card{
+margin-top: 50px;
+}
+#B{
+margin: 80px;
+display: flex;
+justify-content: center;
+align-items: center;
+size: 50px;
+}
+#key{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+#ps{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+#car4 .card{
+height: 230px;
+width: 350px;
+/* padding: 25px;
+margin: 35px; */
+border: none;
+
+}
+#car4 .row{
+margin: 40px;
+}
+#car4 .card .card-body h3{
+padding-left: 15px;;
+} 
+#car4 .card .card-body p{
+padding: 15px;;
+
+} 
+#car4 .card .card-body{
+position: absolute;
+}
+
+/* #car4 .card img{
+position: relative;
+margin-bottom: 150px;
+
+} */
+#cor{
+    background-color:  rgb(252, 105, 105);
+    padding: 10px;
+    border-radius: 50%;
+    bottom: 43px;
+    position: relative;
+    
+}
+#scal{
+    background-color:  rgb(252, 105, 105);
+    padding: 10px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 40px;
+
+}
+#relia{
+    background-color:  rgb(252, 105, 105);
+    padding: 10px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 40px;
+}
+#secu{
+    background-color:  rgb(252, 105, 105);
+    padding: 10px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 45px;
+}
+#use{
+    background-color: rgb(252, 105, 105);
+    padding: 10px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 45px;
+
+}
+#clr{
+    background-color: rgb(253, 152, 152);
+    padding: 7px;
+    fill: rgb(172, 12, 12);
+    border-radius: 50%;
+}
+.ft
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(196, 10, 10);
+}
+.fuul > .container .card{
+    height: 350px;
+    margin-left: 15px;
+
+}
+
+.fuul > .container .card-header{
+    border-bottom: 0px;
+}
+
+.bts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+#re{
+    fill: white;
+    position: relative;
+    bottom: 3px;
+}
+.jaggu{
+    background-color: rgb(194, 15, 45);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    padding: 20px ;
+    margin-bottom: 50px;
+}
+
+.jaggu h1{
+    padding: 20px;
+}
+
+.jaggu h4{
+    padding: 20px;
+
+}
+.jaggu button{
+    color: white;
+}
+.col-md-3 a{
+text-decoration: none;
+color: white ;
+    
+}
+.col-md-3 span{
+    padding: 10px;
+    fill: white;
+    
+}
+.col-md-3 h4{
+    padding: 23px;
+}
+.bashu .row{
+    margin-top: 20px;
+    background-color:rgb(194, 15, 45); 
+    color: white;
+    padding: 40px;
+}
+.bashu{
+    background-color:rgb(194, 15, 45) ;
+}
+.last{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+
+}
+.container .row .card .card-header{
+    padding: 0;
+    border: 0;
+}
+.navbar-toggler-icon{
+   
+    background-color: white;
+    border-radius: 8%;
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.navbar{
+    margin-right: 30px;
+}
+.navbar-nav{
+    margin-left: 40px;
+}
